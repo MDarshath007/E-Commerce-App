@@ -5,7 +5,7 @@ const cartContainer =
 
     cart.forEach(product => {
       cartContainer.innerHTML += `
-        <div class="product d-flex align-items-center justify-content-between">
+        <div class="product">
         <img
           src="${product.thumbnail}"
           alt=""

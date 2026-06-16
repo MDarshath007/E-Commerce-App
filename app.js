@@ -13,11 +13,10 @@ return `     <img
 }
 
 function renderFeaturedProducts(product) {
-return ` <div class="card rounded-3 mx-2 d-flex flex-column"
+return ` <div class="card rounded-3 mx-2 d-flex flex-column" onclick="saveProduct(${product.id})"
       style="min-width:14rem; min-height:430px;">
 
   <a href="product.html"
-     onclick="saveProduct(${product.id})"
      style="text-decoration:none; color:black;">
 
     <img
