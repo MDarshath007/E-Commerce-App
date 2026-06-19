@@ -2,8 +2,6 @@
   Live Demo: https://mdarshath007.github.io/E-Commerce-App/
 </h3>
 
-Excited to share that I’ve successfully completed my E-Commerce Web Application project! 🎉
-
 <h3>Features:</h3>
 
 <ul>
