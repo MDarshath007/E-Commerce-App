@@ -181,6 +181,7 @@ JSON.stringify(selectedProduct)
 // -------------------- CART --------------------
 
 function addToCart(product) {
+  alert("Product added to cart")
 let cart =
 JSON.parse(
 localStorage.getItem("cart")
