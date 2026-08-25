@@ -26,14 +26,14 @@
   <li>Git & GitHub Pages</li>
 </ul>
 
-<h3>💡 Challenges I Faced:</h3>
+<!-- <h3>💡 Challenges I Faced:</h3>
 
 <ul>
    <li>Implementing cart functionality and state management</li>
    <li>Managing navigation across multiple pages</li>
    <li>Fixing file path and deployment issues on GitHub Pages</li>
    <li>Debugging and ensuring smooth user interactions</li>
-</ul>
+</ul> -->
 
 This project helped me strengthen my skills in frontend development, API integration, debugging, and problem-solving by building a complete application from scratch.
 
