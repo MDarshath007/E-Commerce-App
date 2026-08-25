@@ -20,7 +20,7 @@
 <ul>
   <li>HTML5</li>
   <li>CSS3 & Bootstrap5</li>
-  <li>JavaScript (ES6+)</li>
+  <li>JavaScript</li>
   <li>REST API Integration</li>
   <li>Local Storage</li>
   <li>Git & GitHub Pages</li>
